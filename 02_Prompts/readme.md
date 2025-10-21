@@ -1,4 +1,3 @@
-Here are your notes on LangChain prompt fundamentals, formatted in markdown with additional code examples and information.
 
 ### LangChain Prompt Fundamentals
 
